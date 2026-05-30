@@ -1,4 +1,4 @@
-![Preview](images/photo.png.png)
+![Preview](images/photo.png)
 
 # One Piece - Zoro Landing Page
 
